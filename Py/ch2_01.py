@@ -15,7 +15,7 @@ totalMinute = (hour*60) + minute
 print("총 " + str(totalMinute) + "분")
 
 x, y = 3, 5
-print("x:" + str(x) + ", y:" + str(y));
+print("x:" + str(x) + ", y:" + str(y))
 #
 # temp = x;
 # x = y
