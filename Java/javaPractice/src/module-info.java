@@ -6,4 +6,7 @@
  *
  */
 module javaPractice {
+	
+	requires java.se;
+	
 }
